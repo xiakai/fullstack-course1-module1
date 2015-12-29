@@ -82,7 +82,7 @@ gem install bundler
 gem install rails -v 4.2.3
 rails -v
 
-# install shims for newly installed Ruby gems that provide commands
+# install shims for newly installed Ruby gems that provide commands#new
 rbenv rehash
 
 #install Node.js -- we have to jump over to some github instructions
